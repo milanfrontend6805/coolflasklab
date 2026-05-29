@@ -1,0 +1,12 @@
+{
+  "name": "link-shortener-be1f3f",
+  "version": "1.0.0",
+  "description": "A link shortener utility",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": ["link-shortener", "utility"],
+  "license": "MIT"
+}
