@@ -1,5 +1,5 @@
 'use strict';
-const COMP = 'link-shortener-be1f3f';
+const COMP = 'link-shortener-a926c2';
 const _state = new WeakMap();
 class Component {
   constructor(name) { _state.set(this, { name, created: Date.now(), updates: 0 }); }
